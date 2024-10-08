@@ -58,10 +58,14 @@ Borrow out = A'Bin + A'B + BBin
 5.Implement the design on the target device and program it.
 
 Full Subtractor:
-###1.Follow the same steps as for the full adder.
-###2.Draw the full subtractor circuit using schematic design.
-###3.The circuit includes XOR, AND, OR gates to perform subtraction.
-###4.Compile, simulate, implement, and program the design similarly to the full adder.
+1.Follow the same steps as for the full adder.
+
+2.Draw the full subtractor circuit using schematic design.
+
+3.The circuit includes XOR, AND, OR gates to perform subtraction.
+
+4.Compile, simulate, implement, and program the design similarly to the full adder.
+
 **Program:**
 ```
 
