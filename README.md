@@ -38,12 +38,15 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 **FULL ADDER:**
+
 ![image](https://github.com/user-attachments/assets/761b5d5f-99a4-4e5f-b1c2-8101995c8d7f)
+
 **FULL SUBTRACTOR:**
+
 ![image](https://github.com/user-attachments/assets/6a0e6125-5c39-4a07-87a0-6d8014b97e90)
 
 **Procedure**
-Full adder:
+### Full adder:
 1.Open Quartus II and create a new project.
 2.Use schematic design entry to draw the full adder circuit.
 3.The circuit consists of XOR, AND, and OR gates.
