@@ -37,9 +37,9 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-FULL ADDER:
+**FULL ADDER:**
 ![image](https://github.com/user-attachments/assets/761b5d5f-99a4-4e5f-b1c2-8101995c8d7f)
-FULL SUBTRACTOR:
+**FULL SUBTRACTOR:**
 ![image](https://github.com/user-attachments/assets/6a0e6125-5c39-4a07-87a0-6d8014b97e90)
 
 **Procedure**
@@ -89,9 +89,9 @@ endmodule
 
 
 **Output Timing Waveform**
-FULL ADDER:
+**FULL ADDER:**
 ![image](https://github.com/user-attachments/assets/41f9e09f-ecef-423c-b95a-88109cb3161c)
-FULL SUBTRACTOR:
+**FULL SUBTRACTOR:**
 ![image](https://github.com/user-attachments/assets/8b70aa2c-94c1-4ab9-9a34-ad3fb09f1388)
 
 
